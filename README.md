@@ -1,4 +1,4 @@
-# Test-Project
+# Test-Project for learning
 อย่าหยุดเรียนรู้แต่ถ้าเรียนแล้วยังไม่รู้ก็หยุดเถอะ
 
 #Hello World
